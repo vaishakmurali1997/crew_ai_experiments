@@ -15,8 +15,6 @@ This repository contains an AI-powered tool designed for project managers, lever
 - **OpenAI API**: LLM-based text processing and automation.
 - **Python**: Core development language.
 - **Streamlit**: For building an interactive web interface.
-- **PostgreSQL**: Database for storing project data.
-- **LangChain**: Enhancing LLM capabilities for structured responses.
 
 ## Installation
 ```sh
