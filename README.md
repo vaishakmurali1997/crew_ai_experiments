@@ -33,6 +33,10 @@ export OPENAI_API_KEY=your_api_key
 # Run the application
 streamlit run app.py
 ```
+## Screenshots 
+![Capture1](https://github.com/user-attachments/assets/c335ebbb-7e04-491c-ba29-2d5acc245364)
+![Capture2](https://github.com/user-attachments/assets/12ce1da0-b5b7-4be6-8125-2a42063e92ad)
+
 
 ## Usage
 1. Input your project details.
